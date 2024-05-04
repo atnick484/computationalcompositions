@@ -2,6 +2,8 @@
 
 This project explores the capability of Long Short-Term Memory (LSTM) networks in generating MIDI music by training on diverse genres like classical and jazz. It leverages LSTM's potential to model temporal sequences to produce coherent piano melodies and chords.
 
+This codebase is based off [https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5), by Sigurður Skúli.
+
 ## Project Structure
 
 The project includes several Jupyter notebooks and Python scripts, each corresponding to different phases and experiments of the research:
